@@ -1,8 +1,7 @@
-package com.masterSpring.example02;
+package com.masterSpring.example01;
 
 import org.springframework.stereotype.Component;
 
-import javax.xml.crypto.Data;
 import java.util.Arrays;
 
 @Component

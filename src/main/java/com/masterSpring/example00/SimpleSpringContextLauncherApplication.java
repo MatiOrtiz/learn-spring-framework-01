@@ -1,6 +1,5 @@
-package com.masterSpring.example00;
+package com.masterSpring.examples;
 
-import com.masterSpring.example01.DepInjectionLauncherApplication;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class SimpleSpringContextLauncherApplication {

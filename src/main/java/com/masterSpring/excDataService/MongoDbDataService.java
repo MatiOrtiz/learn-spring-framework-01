@@ -1,4 +1,4 @@
-package com.masterSpring.example02;
+package com.masterSpring.example01;
 
 
 import org.springframework.context.annotation.Primary;
