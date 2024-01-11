@@ -1,4 +1,4 @@
-package com.masterSpring.example01;
+package com.masterSpring.excDataService;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;

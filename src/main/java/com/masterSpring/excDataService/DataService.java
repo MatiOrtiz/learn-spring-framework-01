@@ -1,4 +1,4 @@
-package com.masterSpring.example01;
+package com.masterSpring.excDataService;
 
 public interface DataService {
     public int[] retrieveData();
